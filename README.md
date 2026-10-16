@@ -37,3 +37,13 @@ GUI development, and basic banking system operations.
 
 ## 👨‍💻 Developer
 Student Project
+## 📸 Project Screenshots
+
+### 1. Welcome Screen
+![Golden Bank Welcome Screen](welcome_screen.png)
+
+### 2. Bank Dashboard
+![Golden Bank Dashboard](bank_dashboard.png)
+
+### 3. Transaction History
+![Golden Bank Transaction History](transaction_history.png)
